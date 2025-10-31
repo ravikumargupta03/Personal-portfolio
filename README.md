@@ -63,9 +63,13 @@ I’m enthusiastic about:
 
 
 portfolio/
-├── public/
+
+├── public/ 
+
 ├── src/
+
 │ ├── components/
+
 │ │ ├── Navbar.jsx
 │ │ ├── Hero.jsx
 │ │ ├── About.jsx
@@ -75,6 +79,7 @@ portfolio/
 │ ├── App.js
 │ ├── index.js
 │ └── styles/
+
 └── package.json
 
 
