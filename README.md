@@ -71,13 +71,21 @@ portfolio/
 │ ├── components/
 
 │ │ ├── Navbar.jsx
+
 │ │ ├── Hero.jsx
+
 │ │ ├── About.jsx
+
 │ │ ├── Projects.jsx
+
 │ │ ├── Contact.jsx
+
 │ │ └── Footer.jsx
+
 │ ├── App.js
+
 │ ├── index.js
+
 │ └── styles/
 
 └── package.json
